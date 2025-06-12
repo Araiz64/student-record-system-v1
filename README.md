@@ -58,5 +58,5 @@ python student_record_system_v1.py
 ---
 
 ## 🪪 License
-MIT License (Free to use and improve)
+This project is licensed under the [MIT License](LICENSE).
 
